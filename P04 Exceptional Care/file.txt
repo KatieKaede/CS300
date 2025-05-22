@@ -1,7 +1,0 @@
-Total number of patients: 4
-Total number seen: 2
-RED: 0
-YELLOW: 2
-GREEN: 2
-21701: 17M (YELLOW)
-32102: 21X (GREEN)
